@@ -30,7 +30,11 @@
         width: 100%;
     }
 }
-    
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
     
     * {
         box-sizing: border-box;
